@@ -18,7 +18,6 @@ database_id = ""d1_databases": [{
     "binding": "DB",
     "database_name": "moontvplus",
     "database_id": "26df1717-efc0-43c7-959e-776348db41c0"
- }]"
 
 [vars]
 NODE_ENV = "production"
