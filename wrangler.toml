@@ -1,4 +1,4 @@
-name = "moontv-plus"
+name = "moontv"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 main = ".open-next/worker.js"
@@ -14,7 +14,11 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "moontvplus"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = ""d1_databases": [{
+    "binding": "DB",
+    "database_name": "moontvplus",
+    "database_id": "26df1717-efc0-43c7-959e-776348db41c0"
+ }]"
 
 [vars]
 NODE_ENV = "production"
